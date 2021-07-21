@@ -1,6 +1,7 @@
 ---
 
 title: "HamSpot.com Test"
+site_name: "HamSpot.com"
 
 ---
 
