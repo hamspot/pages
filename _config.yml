@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "HamSpot.com"
+      
+      
