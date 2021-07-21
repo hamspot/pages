@@ -1,5 +1,6 @@
 ---
 
+site.title: "Testing"
 title: "HamSpot.com Test"
 description: "HamSpot.com Description"
 show_downloads: false
