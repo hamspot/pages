@@ -1,7 +1,7 @@
 ---
 
 title: "HamSpot.com Test"
-og:site_name: "HamSpot.com"
+description: "HamSpot.com Description"
 
 ---
 
