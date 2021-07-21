@@ -1,3 +1,9 @@
+---
+
+title: "HamSpot.com Test"
+
+---
+
 [Ham Spot HS-736USB](//www.hamspot.com/33-prod-hs-736usb)
 ---------------------------------------------------------
 
